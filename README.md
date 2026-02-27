@@ -2,7 +2,7 @@
 
 This repo contains the **interactive UI concepts** for Flicks’ *Cinema Together* initiative: a nine-screen React prototype that turns solitary showtime browsing into a **social, coordinated cinema ritual**.
 
-These screens are designed as a **hire-ready artifact** for Vista Group: they demonstrate not just visual depth and motion craft, but also **interaction design, state modelling, and engineering quality** at the level you would ship inside a production app.
+These screens are designed as a **product driven artifact** for Vista Group: they demonstrate not just visual depth and motion craft, but also **interaction design, state modelling, and engineering quality** at the level you would ship inside a production app.
 
 ---
 
