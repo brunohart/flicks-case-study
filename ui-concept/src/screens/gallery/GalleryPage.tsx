@@ -420,16 +420,8 @@ export function GalleryPage() {
 
         <footer className="pt-8 pb-16 border-t" style={{ borderColor: "#E8E8E8" }}>
           <p className="text-[13px]" style={{ color: "#AEAEB2" }}>
-            Built with React 18 + TypeScript + Tailwind CSS v4 · Flicks NZ case study ·{" "}
-            <a
-              href="https://www.flicks.co.nz"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="underline"
-              style={{ color: "#F23953" }}
-            >
-              flicks.co.nz
-            </a>
+            Built with React 19, React Router 7, TypeScript 5.7, Vite 6, and Tailwind CSS 4, using the real Flicks
+            design system (F23953 / D4A853) inside an iPhone 15 Pro (393×852) frame.
           </p>
         </footer>
       </div>
