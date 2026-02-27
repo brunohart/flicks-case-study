@@ -130,6 +130,18 @@ npm run build
 npm run preview
 ```
 
+### Publishing the live gallery (GitHub Pages)
+
+From the repo root:
+
+```bash
+cd ui-concept
+npm install
+npm run deploy
+```
+
+That builds the app and pushes the output to the `gh-pages` branch. In the repo **Settings → Pages**, set **Source** to **Deploy from a branch**, branch **gh-pages**, folder **/ (root)**. The site will be at **https://brunohart.github.io/flicks-case-study/**.
+
 ---
 
 ## Architecture & engineering notes
