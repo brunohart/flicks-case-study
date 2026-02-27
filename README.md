@@ -1,5 +1,8 @@
+<picture>
+  <img src="og-image.png" alt="Cinema Together — Interactive UI Concepts for Flicks" />
+</picture>
+
 ## Flicks — Cinema Together UI Concepts
-![OG-IMAGE](og-image.png) 
 
 This repo contains the **interactive UI concepts** for Flicks’ *Cinema Together* initiative: a nine-screen React prototype that turns solitary showtime browsing into a **social, coordinated cinema ritual**.
 
