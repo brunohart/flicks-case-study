@@ -2,7 +2,7 @@
 
 A product strategy case study for Flicks (Vista Group) — exploring how cinema discovery can become communal attendance.
 
-**Live presentation:** [brunohart.github.io/flicks-case-study](https://brunohart.github.io/flicks-case-study)
+**Live presentation:** [Pending update]
 
 By Bruno Hart · February 2026
 
