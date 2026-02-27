@@ -8,7 +8,6 @@ This repo contains the **interactive UI concepts** for Flicks’ *Cinema Togethe
 
 👉 **Live UI concept gallery:** https://brunohart.github.io/flicks-case-study/
 
-These screens are designed as a **hire-ready artifact** for Vista Group: they demonstrate not just visual depth and motion craft, but also **interaction design, state modelling, and engineering quality** at the level you would ship inside a production app.
 
 > **If you work at Vista / Flicks:** this is the UI layer that sits on top of your existing stack and unlocks new social, data, and commercial value. The strategy case study that motivated these concepts lives in a separate repo; this project is focused on the execution quality of the UI and flows.
 
