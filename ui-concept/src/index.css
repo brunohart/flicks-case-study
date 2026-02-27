@@ -1,0 +1,28 @@
+@import "tailwindcss";
+@import "./styles/tokens.css";
+
+body {
+  margin: 0;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #E5E5E7;
+}
+
+/* App shell — constrains routed screens to phone width */
+.app-shell {
+  max-width: 390px;
+  margin: 0 auto;
+  min-height: 100dvh;
+  background: #fff;
+  position: relative;
+  overflow-x: hidden;
+}
+
+/* Hide scrollbars inside phone frame while keeping scroll functional */
+* {
+  scrollbar-width: none;          /* Firefox */
+}
+*::-webkit-scrollbar {
+  display: none;                  /* Chrome, Safari, Edge */
+}

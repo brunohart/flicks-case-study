@@ -1,0 +1,33 @@
+:root {
+  /* Colors */
+  --flicks-red: #F23953;
+  --cinema-gold: #D4A853;
+  --black: #000000;
+  --white: #FFFFFF;
+  --surface: #F5F5F5;
+  --grey-tile: #EBEBEB;
+  --grey-tile-dk: #C8C8C8;
+  --grey-mid: #D6D6D6;
+  --sep: #E8E8E8;
+  --sep-lt: #E0E0E0;
+  --text-2: #8E8E93;
+  --text-3: #AEAEB2;
+  --seg-bg: #EFEFEF;
+  --social-fill: #FFF8F8;
+  --social-border: #FFD0D0;
+  --gold: #FFB800;
+  --going-bg: #E6F9F0;
+  --going-text: #1A7340;
+  --checkbox-off: #C7C7CC;
+
+  /* Typography */
+  --font: -apple-system, system-ui, BlinkMacSystemFont, sans-serif;
+
+  /* Layout */
+  --screen-pad: 16px;
+  --section-gap: 24px;
+  --radius-tile: 10px;
+  --radius-pill: 999px;
+  --radius-card: 12px;
+  --radius-sheet: 20px;
+}
